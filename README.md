@@ -53,13 +53,7 @@ inner join
 * **Username:** developer или posgres
 * **Password:** developer
 
-## APgAdmin: 
+## PgAdmin: 
 * **URL:** `http://localhost:5050`
 * **Username:** developer@nurtelecom.kg
 * **Password:** developer
-
-## Add a new server in PgAdmin:
-* **Host name/address** `postgres`
-* **Port** `5432`
-* **Username** as `POSTGRES_USER`, by default: `developer`
-* **Password** as `POSTGRES_PASSWORD`, by default `developer`
