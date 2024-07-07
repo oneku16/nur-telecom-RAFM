@@ -15,3 +15,4 @@ DATA_BASE_URL: str = f'postgresql://{POSTGRES_USER}:{POSTGRES_PASSWORD}@{POSTGRE
 
 
 SKIP_SHEETS: set = {'задача'}
+TEST: str = "test"
